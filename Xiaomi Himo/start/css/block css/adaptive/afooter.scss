@@ -1,0 +1,17 @@
+@media (max-width: 580px) {
+  .footer__inner{
+    display: block;
+    text-align: center;
+    padding: 15px 0;
+    height: auto;
+  }
+  .footer__social{
+    padding: 15px 0;
+  }
+
+  .footer__contacts{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

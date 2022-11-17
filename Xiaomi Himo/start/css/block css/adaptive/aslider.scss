@@ -1,0 +1,22 @@
+@media (max-width: 1100px) {
+  .slider__img{
+    object-fit: cover;
+    height: 400px;
+  }
+}
+
+@media (max-width: 640px) {
+  .slider__img{
+    height: 250px;
+  }
+
+  .slider__item{
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 460px) {
+  .slider{
+    display: none;
+  }
+}

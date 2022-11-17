@@ -1,0 +1,27 @@
+@media (max-width: 1110px) {
+  .discribe{
+    padding: 50px 0 50px;
+  }
+
+  .girl-image{
+    display: none;
+  }
+
+  .discribe__text{
+    flex-basis: 100%;
+  }
+
+  .info-text{
+    max-width: 100%;
+  }
+
+  .price {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 640px) {
+  .discribe__item + .discribe__item{
+    padding-top: 2em;
+  }
+}

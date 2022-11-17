@@ -1,0 +1,27 @@
+@media (max-width: 991px) {
+  .character__inner {
+    flex-wrap: wrap;
+  }
+  .character__img {
+    order: -1;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .character__item {
+    flex-basis: 100%;
+    margin-right: 0;
+  }
+  .character__name {
+    flex-basis: 50%;
+  }
+  .character__descr {
+    flex-basis: 50%;
+  }
+}
+@media (max-width: 1100px) {
+  .character {
+    padding-bottom: 50px;
+  }
+}
+
+/*# sourceMappingURL=acharacter.css.map */

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/alik/.idea/alik.iml" filepath="$USER_HOME$/alik/.idea/alik.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/start.iml" filepath="$PROJECT_DIR$/.idea/start.iml" />
     </modules>
   </component>

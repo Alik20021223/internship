@@ -1,0 +1,53 @@
+.character{
+  padding:30px 0 150px;
+}
+
+.character__inner{
+  display: flex;
+
+}
+
+.character_title{
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+
+.character__title{
+  color: white;
+  background-color: #131313;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 2px 0 3px;
+}
+
+.character__img{
+  align-self: center;
+}
+
+.character__item{
+  flex-basis: 570px;
+  margin-right: 60px;
+}
+
+.character__list + .character__list{
+  padding-top: 30px;
+}
+
+.character__line{
+  display: flex;
+  padding-top: 5px;
+}
+
+.character__name{
+  flex-basis: 285px;
+  padding-right: 25px;
+}
+
+.character__descr{
+  flex-basis: 285px;
+}
+
+@import "adaptive/acharacter";
