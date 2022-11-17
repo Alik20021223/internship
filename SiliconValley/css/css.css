@@ -1,0 +1,39 @@
+body{
+    width: 70%;
+    margin: 0 auto;
+}
+
+h2, h1, h3{
+    margin-top: 1.5em;
+
+}
+
+caption,table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption{
+    font-weight: 700;
+}
+
+.qwer, .qwert{
+    width: 70%;
+}
+
+h1{
+    font-size: 32px;
+}
+
+figcaption{
+    font-style: italic;
+}
+
+figure{
+    float: right;
+}
+
+.rty{
+    background: url("/css/images/image.png");
+    background-size: cover;
+}
